@@ -1,0 +1,17 @@
+{
+  "newPost": {
+    "title": "Cypress API Testing with Fixture",
+    "body": "This post was created using fixture data in Cypress.",
+    "userId": 1
+  },
+  "updatedPost": {
+    "title": "Updated Title from Fixture",
+    "body": "This post was updated using fixture data in Cypress.",
+    "userId": 1
+  },
+  "invalidPost": {
+    "title": null,
+    "body": "Post with no title should fail",
+    "userId": 1
+  }
+}
